@@ -4,4 +4,4 @@
 
   !pip install keras==2.1.2
 
-3.đưa file weight theo vào thư mục data
+3.đưa file weight vào thư mục data
